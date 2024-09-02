@@ -1,0 +1,15 @@
+site_name: Random Knowledge Tidbits 
+theme:
+  name: material
+
+plugins:
+  # - meta  # ! insider only, and must put before blog plugin
+  - blog:
+      blog_dir: .
+      post_url_date_format: yyyy/MM
+      categories_allowed:
+        - cwl 
+        - CWL
+        - calrissian
+        - eoap
+        - Earth Observation Application Package
