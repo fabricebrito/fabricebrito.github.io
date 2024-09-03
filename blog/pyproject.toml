@@ -29,7 +29,8 @@ path = "src/blog/__about__.py"
 dependencies = [
   "pdocs",
   "mkdocs-material",
-  "mkdocs-jupyter"
+  "mkdocs-jupyter",
+  "mkdocs-minify-plugin"
 ]
 
 [tool.hatch.envs.docs.scripts]
