@@ -1,3 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://fabricebrito.github.io/</loc>
+         <lastmod>2024-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://fabricebrito.github.io/2024/09/empty/</loc>
+         <lastmod>2024-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://fabricebrito.github.io/archive/2024/</loc>
+         <lastmod>2024-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://fabricebrito.github.io/category/earth-observation-application-package/</loc>
+         <lastmod>2024-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://fabricebrito.github.io/category/cwl/</loc>
+         <lastmod>2024-09-03</lastmod>
+    </url>
 </urlset>
